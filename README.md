@@ -1,6 +1,6 @@
 # UPrakerin
-#Undownloadable
-#Dalam proses upgrade ke CodeIgniter 3
+# Undownloadable
+# Dalam proses upgrade ke CodeIgniter 3
 
 Aplikasi Prakerin Online berbasis Website.
 Masih BETA karna masih perlu debugging dan develop total.
