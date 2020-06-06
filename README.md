@@ -1,5 +1,6 @@
 # UPrakerin
 #Undownloadable
+#Dalam proses upgrade ke CodeIgniter 3
 
 Aplikasi Prakerin Online berbasis Website.
 Masih BETA karna masih perlu debugging dan develop total.
@@ -7,7 +8,7 @@ Masih BETA karna masih perlu debugging dan develop total.
 Fitur :
 - Register
 - Login
-- Change profile (NIS, Nama, Password, dll)
+- Change profile (Image profile, Nama, Password, dll)
 - Mengajukan/membatalkan prakerin
 - Kirim sertifikat (admin)
 - blokir pengguna (admin)
@@ -22,5 +23,3 @@ Tech :
 - Plugin Slider
 - Font Awesome
 - Dan masih banyak lagi.
-
-Dalam proses upgrade ke CodeIgniter 3
