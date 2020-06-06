@@ -11,13 +11,15 @@ Fitur :
 - Kirim sertifikat (admin)
 - blokir pengguna (admin)
 - Meminta, dan menerima sertifikat (siswa)
-- Dan lain-lain
+- Dan masih banyak lagi
 
-Tool :
-- Database MariaDB (mysql)
+Tech :
+- Database MariaDB (MySQL)
 - PHP Native
 - Framework CSS Bootstrap
 - Plugin Datatables
 - Plugin Slider
 - Font Awesome
-- Dan lain-lain
+- Dan masih banyak lagi.
+
+Dalam proses upgrade ke CodeIgniter 3
